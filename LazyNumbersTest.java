@@ -1,3 +1,5 @@
+package LazyEvaluationAndCache;
+
 import java.util.Scanner;
 
 public class LazyNumbersTest {

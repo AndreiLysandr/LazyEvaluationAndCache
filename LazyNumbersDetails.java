@@ -1,3 +1,5 @@
+package LazyEvaluationAndCache;
+
 public class LazyNumbersDetails {
 
     // Campul obiectului
